@@ -1,1 +1,1 @@
-# causal-discovery-papers
+# awesome-causal-discovery
